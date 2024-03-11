@@ -1,5 +1,5 @@
 # Projeto_Integrador_2_MVP
-Projeto Integrador parte 2 (MINIMUM VIABLE PRODUCT) - Desenvolvido pelo grupo 02 de Sistemas para Internet do SENAC - EAD, na intenção de criar um sistema que visa promover a sustentabilidade na mobilidade, facilitando a transição para veículos elétricos. A plataforma oferece uma experiência transparente na troca de carros à combustão, incentivando práticas eco-friendly. Com foco na conscientização ambiental, parcerias estratégicas e eficiência na transição, o projeto busca contribuir para um futuro mais sustentável na indústria automotiva.
+Projeto Integrador parte 2 (MINIMUM VIABLE PRODUCT) GreenDrive Trade-In - É um sistema desenvolvido pelo grupo 02 de Sistemas para Internet do SENAC - EAD, na intenção de criar um sistema que visa promover a sustentabilidade na mobilidade, facilitando a transição para veículos elétricos. A plataforma oferece uma experiência transparente na troca de carros à combustão, incentivando práticas eco-friendly. Com foco na conscientização ambiental, parcerias estratégicas e eficiência na transição, o projeto busca contribuir para um futuro mais sustentável na indústria automotiva.
 
 O sistema foi desenvolvido em HTML, CSS, PHP e banco de dados com MySQL. A aplicação deve ser testada da seguinte forma:
 
