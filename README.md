@@ -3,10 +3,10 @@ Projeto Integrador parte 2 (MINIMUM VIABLE PRODUCT) - Desenvolvido pelo grupo 02
 
 O sistema foi desenvolvido em HTML, CSS, PHP e banco de dados com MySQL. A aplicação deve ser testada da seguinte forma:
 
-Instação do Visual Studio Code
-Instalação do Xampp
-Criação de banco de dados utilizando o MySQL dentro do Xampp
-Através de uma página de cadastro será possível inserir dados do usuário e também do veículo ofertado.
+- Instação do Visual Studio Code
+- Instalação do Xampp
+- Criação de banco de dados utilizando o MySQL dentro do Xampp
+- Através de uma página de cadastro será possível inserir dados do usuário e também do veículo ofertado.
 
 Membros do grupo: 
 - AGNALDO BARROS RIBEIRO DOS SANTOS
